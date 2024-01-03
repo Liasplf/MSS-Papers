@@ -1,6 +1,6 @@
 # MSS-Papers
 model serving system papers
-<<<<<<< HEAD
+
 =======
 
 | **Scheduler** | Year | **Series** | **Paper** | **Code** | Link | Reporter |
@@ -8,4 +8,3 @@ model serving system papers
 | SpotServe     | 2024 | ASPLOS     |           |          |      | XiaoKai  |
 | AlpaServe     | 2023 | OSDI       |           |          |      | XiaoKai  |
 | Shepherd      | 2023 | NSDI       |           |          |      | XiaoKai  |
->>>>>>> xk

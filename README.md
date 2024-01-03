@@ -1,8 +1,6 @@
 # MSS-Papers
 model serving system papers
 
-=======
-
 | **Scheduler** | Year | **Series** | **Paper** | **Code** | Link | Reporter |
 | ------------- | ---- | ---------- | --------- | -------- | ---- | -------- |
 | SpotServe     | 2024 | ASPLOS     |           |          |      | XiaoKai  |

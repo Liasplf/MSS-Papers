@@ -15,5 +15,6 @@ model serving system papers
 | Hyrax         | 2023 | OSDI　　　　| [Paper](https://www.usenix.org/system/files/osdi23-lyu.pdf)  |                                                      |                                                               | hzq|
 | NCC           | 2023 | OSDI　　　　| [Paper](https://www.usenix.org/system/files/osdi23-lu.pdf)   |                                                      |                                                               | hzq|
 | Conveyor      | 2023 | OSDI　　　　| [Paper](https://www.usenix.org/system/files/osdi23-grubic.pdf)   |                                                  |                                                               | hzq|
+| Automated Runtime-Aware Scheduling for Multi-Tenant DNN Inference on GPU| 2021 | ICCAD | [Paper](https://arxiv.org/pdf/2111.14255.pdf) | |               |                                                              | hzq|
 
 

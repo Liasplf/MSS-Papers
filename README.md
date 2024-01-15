@@ -3,7 +3,7 @@ model serving system papers
 
 ​	**Different Storage Media** = ★   
 
-​	**Different GPU Devices =▲ **     
+​	**Different GPU Devices =▲**     
 
 ​	**Resource Scheduling = ●**
 

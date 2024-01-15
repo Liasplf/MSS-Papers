@@ -1,7 +1,11 @@
 # MSS-Papers
 model serving system papers
 
-**Different Storage Media** = ★   **Different GPU Devices =▲ **     **Resource Scheduling = ●**
+​	**Different Storage Media** = ★   
+
+​	**Different GPU Devices =▲ **     
+
+​	**Resource Scheduling = ●**
 
 | **Scheduler** | Year | **Series** | Target | **Paper**                                                    | **Code**                                             | Link                                                         | Reporter |
 | ------------- | ---- | ---------- | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ | -------- | ------------- |

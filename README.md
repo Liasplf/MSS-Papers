@@ -20,11 +20,11 @@ model serving system papers
 | Moirai | 2023 | arxiv | ▲ | [Paper](https://arxiv.org/pdf/2312.04025.pdf) | |  | XiaoKai |
 | FaaSwap | 2023 | arxiv | ★ | [Paper](https://arxiv.org/pdf/2306.03622.pdf) | | | Xiaokai |
 | HexGen | 2023 | arxiv | ▲ | [Paper](https://arxiv.org/pdf/2311.11514.pdf) | [Code](https://github.com/Relaxed-System-Lab/HexGen) | | XiaoKai |
-| Cocktail | 2022 | USENIX |  | [Paper](https://www.usenix.org/system/files/nsdi22-paper-gunasekaran.pdf) | |  | XiaoKai |
+| Cocktail | 2022 | NSDI |  | [Paper](https://www.usenix.org/system/files/nsdi22-paper-gunasekaran.pdf) | |  | XiaoKai |
 | iGniter | 2022 | TPDS | ● | [Paper](https://arxiv.org/pdf/2211.01713.pdf) | [Code](https://github.com/icloud-ecnu/igniter) | updating | XiaoKai |
-| INFaaS | 2021 | USENIX |  | [Paper](https://www.usenix.org/system/files/atc21-romero.pdf) | |  | XiaoKai |
+| INFaaS | 2021 | ATC |  | [Paper](https://www.usenix.org/system/files/atc21-romero.pdf) | |  | XiaoKai |
 | Gillis        | 2021 | ICDCS      |       | [Paper](https://www.cse.ust.hk/~weiwa/papers/gillis-icdcs21.pdf) | [Code](https://github.com/MincYu/gillis-open-source) |                                                              | XiaoKai  |
-| MArk          | 2019 | USENIX     | ●    | [Paper](https://www.usenix.org/system/files/atc19-zhang-chengliang.pdf) | [Code](https://github.com/marcoszh/MArk-Project)     |       | XiaoKai  |
+| MArk          | 2019 | ATC  | ●    | [Paper](https://www.usenix.org/system/files/atc19-zhang-chengliang.pdf) | [Code](https://github.com/marcoszh/MArk-Project)     |       | XiaoKai  |
 | ExoFlow       | 2023 | OSDI      |       | [Paper](https://www.usenix.org/system/files/osdi23-zhuang.pdf)|                                                      |                                                               | hzq|
 | Hyrax         | 2023 | OSDI　　　　| 　　　　| [Paper](https://www.usenix.org/system/files/osdi23-lyu.pdf)  |                                                      |                                                               | hzq|
 | NCC           | 2023 | OSDI　　　　| 　　　　| [Paper](https://www.usenix.org/system/files/osdi23-lu.pdf)   |                                                      |                                                               | hzq|

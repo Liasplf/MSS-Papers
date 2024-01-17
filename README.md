@@ -10,6 +10,7 @@ model serving system papers
 | **Scheduler** | Year | **Series** | Target | **Paper**                                                    | **Code**                                             | Link                                                         | Reporter |
 | ------------- | ---- | ---------- | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ | -------- | ------------- |
 | SpotServe     | 2024 | ASPLOS     |      | [Paper](https://arxiv.org/pdf/2311.15566.pdf)                | [Code](https://github.com/Hsword/SpotServe)          |                                                              | XiaoKai  |
+| Kairos | 2023 | HPDC | ★ | [Paper](https://dl.acm.org/doi/pdf/10.1145/3588195.3592997) |  | | XiaoKai |
 | AdaInf | 2023 | SIGCOMM | | [Paper](https://dl.acm.org/doi/pdf/10.1145/3603269.3604830) |  | [Link](https://blog.csdn.net/qq_51802743/article/details/135627306?spm=1001.2014.3001.5501) | XiaoKai |
 | AlpaServe     | 2023 | OSDI       |        | [Paper](https://www.usenix.org/system/files/osdi23-li-zhuohan.pdf) | [Code](https://github.com/alpa-projects/mms)         |                                                              | XiaoKai  |
 | Shepherd      | 2023 | NSDI       |        | [Paper](https://www.usenix.org/system/files/nsdi23-zhang-hong.pdf) |                                                      |                                                              | XiaoKai  |

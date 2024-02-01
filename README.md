@@ -24,6 +24,8 @@ deep learning optimization software suite
 | **Scheduler** | Year | **Series** | Target | **Paper**                                                    | **Code**                                             | Link                                                         | Reporter |
 | ------------- | ---- | ---------- | ------------------------------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------ | -------- | ------------- |
 | SpotServe     | 2024 | ASPLOS     |      | [Paper](https://arxiv.org/pdf/2311.15566.pdf)                | [Code](https://github.com/Hsword/SpotServe)          | [Link](https://blog.csdn.net/qq_51802743/article/details/135731064?spm=1001.2014.3001.5502) | XiaoKai  |
+| TapFinger | 2023 | INFOCOM | ● | [Paper](https://i2.cs.hku.hk/~cwu/papers/yhli-infocom23.pdf) |  |  | XiaoKai |
+| CBA/AutoCBA | 2023 | INFOCOM | ● | [Paper](https://ieeexplore.ieee.org/abstract/document/10228920) |  |  | XiaoKai |
 | Sia | 2023 | SOSP | ★ | [Paper](https://dl.acm.org/doi/pdf/10.1145/3600006.3613175)  |  | [Link](https://blog.csdn.net/qq_51802743/article/details/135838274?spm=1001.2014.3001.5502) | XiaoKai |
 | Kairos | 2023 | HPDC | ★ | [Paper](https://dl.acm.org/doi/pdf/10.1145/3588195.3592997) |  | [Link](https://blog.csdn.net/qq_51802743/article/details/135731160?spm=1001.2014.3001.5502) | XiaoKai |
 | AdaInf | 2023 | SIGCOMM | | [Paper](https://dl.acm.org/doi/pdf/10.1145/3603269.3604830) |  | [Link](https://blog.csdn.net/qq_51802743/article/details/135627306?spm=1001.2014.3001.5501) | XiaoKai |
